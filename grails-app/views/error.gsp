@@ -12,7 +12,7 @@
 		<g:else>
 			<ul class="errors">
 				<li>An error has occurred</li>
-				<li>This is a test</li>
+				<li>This is a testfg</li>
 			</ul>
 		</g:else>
 	</body>
